@@ -73,4 +73,4 @@ TP6DPBO2526C2/
   ![Game Over](./Dokumentasi/gameover.png)
 
 ### Video Demonstrasi
-<video src="Dokumentasi/gameplay.webm" width="100%" controls></video>
+<video src="Dokumentasi/gameplay.mp4" width="100%" controls></video>
