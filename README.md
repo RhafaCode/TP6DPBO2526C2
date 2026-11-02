@@ -45,7 +45,7 @@ TP6DPBO2526C2/
 │   ├── main_menu.png
 │   ├── gameplay.png
 │   ├── gameover.png
-│   └── gameplay.mp4
+│   └── gameplay.webm
 ├── src/                        # Kode sumber Java Class
 │   ├── App.java
 │   ├── Logic.java
@@ -71,3 +71,6 @@ TP6DPBO2526C2/
 
 - **Game Over & Screen Restart**  
   ![Game Over](./Dokumentasi/gameover.png)
+
+### Video Demonstrasi
+<video src="Dokumentasi/gameplay.webm" width="100%" controls></video>
