@@ -72,3 +72,7 @@ TP6DPBO2526C2/
 - **Game Over & Screen Restart**  
   ![Game Over](./Dokumentasi/gameover.png)
 
+  
+https://github.com/user-attachments/assets/46268f91-6412-4b34-b715-1552231f30a2
+
+
